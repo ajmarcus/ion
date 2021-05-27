@@ -1,0 +1,1 @@
+export FLASK_APP=ion.app && export FLASK_DEBUG=True && poetry run flask run
